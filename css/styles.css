@@ -116,8 +116,8 @@ a{
     color: #2e2f42;
 }
 
-.team-list {
-    background: #fff;
+.team-item {
+    background-color: #fff;
 }
 
 .team-card-title,
