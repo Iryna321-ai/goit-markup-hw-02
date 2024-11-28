@@ -102,8 +102,6 @@ a{
     color: #434455;
 }
 
-.team-section {}
-
 .section-title {
     font-weight: 700;
     font-size: 36px;
@@ -119,7 +117,6 @@ a{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-     text-align: center;
     color: #2e2f42;
 }
 
@@ -129,7 +126,6 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 }
 
